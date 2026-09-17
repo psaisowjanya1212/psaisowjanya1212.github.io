@@ -2792,6 +2792,13 @@ margin-right: 0px;
 	}
 /* ===== Portfolio improvements ===== */
 
+#main {
+	background: #ffffff;
+	min-height: 100vh;
+}
+
+
+
 html {
 	scroll-behavior: smooth;
 }
